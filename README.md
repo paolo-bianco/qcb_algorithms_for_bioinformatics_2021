@@ -4,6 +4,7 @@ This repository contains the python scripts for the exam of Algorithms For Bioin
 \
 \
 \
+\
 **DIRECTORY STRUCTURE**
 \
 \
@@ -32,6 +33,7 @@ The program is built in modules. Four scripts are present into this repository a
 \
 \
 \
+\
 **BASIC FUNCTIONALITY**  
 \
 \
@@ -56,7 +58,7 @@ was implemented and it can be run using the following command:
 \
 \
 \
-**ADVANCED FUNCTIONALITY**  
+**ADVANCED FUNCTIONALITY**
 \
 \
   **SCORE SELECTION**  
