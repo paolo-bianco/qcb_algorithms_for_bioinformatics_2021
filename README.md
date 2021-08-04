@@ -116,3 +116,14 @@ was implemented and it can be run using the following command:
     
   To understand the main ideas behind the code implementation, look at the comments that are present on the <SW.py> script 
   that is placed inside the <Modules> directory.
+\
+\
+\
+\
+\
+**IMPLEMENTATION**
+\
+\
+To use the implemented filtering option run the command:
+
+    ./align.py SmithWaterman <sequence1> <sequence2> -f filter
